@@ -55,7 +55,7 @@
     "ts-jest": "19.0.2",
     "ts-node": "5.0.1",
     "tsify": "4.0.0",
-    "typescript": "2.7.2"
+    "typescript": "2.9.2"
   },
   "dependencies": {
     "@jenkins-cd/blueocean-core-js": "0.0.171",
