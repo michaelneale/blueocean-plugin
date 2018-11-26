@@ -10,8 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "async": "^2.0.1",
-    "graceful-fs": "4.1.11",
-    "prettier": "1.12.1",
+    "graceful-fs": "4.1.15",
+    "prettier": "1.15.2",
     "prompt": "^1.0.0"
   },
   "dependencies": {}
