@@ -11,13 +11,13 @@
   "license": "MIT",
   "dependencies": {
     "@jenkins-cd/js-modules": "0.0.10",
-    "rollbar-browser": "1.9.2"
+    "rollbar-browser": "1.9.5"
   },
   "devDependencies": {
     "@jenkins-cd/js-builder": "0.0.63",
-    "babel-eslint": "6.1.2",
-    "create-hmac": "1.1.4",
-    "eslint-plugin-react": "4.3.0",
+    "babel-eslint": "^10.0.1",
+    "create-hmac": "1.1.7",
+    "eslint-plugin-react": "^7.11.1",
     "gulp": "3.9.1"
   },
   "jenkinscd": {
