@@ -1,0 +1,18 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bin/package.json",
+        "blueocean-config/package.json",
+        "blueocean-core-js/package.json",
+        "blueocean-dashboard/package.json",
+        "blueocean-material-icons/package.json",
+        "blueocean-personalization/package.json",
+        "blueocean-pipeline-editor/package.json",
+        "blueocean-web/package.json",
+        "jenkins-design-language/package.json",
+        "js-extensions/package.json"
+      ]
+    }
+  }
+}
